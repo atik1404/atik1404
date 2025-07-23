@@ -15,22 +15,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Hire Me on Upwork
 
-![Atik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtikFaysal&show_icons=true&line_height=27)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtikFaysal)
+[![Upwork](https://img.shields.io/badge/Upwork-%2300b22d.svg?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/mdatikfaysal)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Mobile Development
-- **Android (Native)** with **Kotlin**, **Java**, **Jetpack Compose**, **MVVM**, **Kotlin Flow**
-- **Flutter** with **Dart**
-- **Firebase** (Auth, Firestore, Cloud Messaging, Push Notifications)
-- **Room**, **SQLite**, **MySQL**  
-- **Coroutines**, **RxJava**, **LiveData**, **Data Binding**, **KTX**
-- **Clean Architecture**, **CI/CD Pipelines**
+
+**Flutter**:  
+- Dart, GetX, BLoC, Firebase Integration, Supabase  
+- RESTful APIs, Clean Architecture
+
+**Android (Native)**:  
+- Kotlin, Java, Jetpack Compose, XML  
+- Hilt, WorkManager, MVVM  
+- Multi-Module Architecture, Kotlin Flow  
+- Firebase Push Notification
+
+**Databases**:  
+- Room, SQLite, MySQL, Firebase Firestore
+
+---
 
 ### 💻 Programming Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23777BB4?style=flat-square&logo=kotlin&logoColor=white)
@@ -38,12 +46,30 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+---
+
 ### 🧰 Tools & Platforms
-- **Git**, **GitHub**, **Bitbucket**
-- **Android Studio**, **VS Code**
-- **Firebase Console**, **Postman**, **Trello**
-- **GitHub Copilot**, **ChatGPT**, **Markdown**, **Figma**, **Canva**
-- **CI/CD (GitHub Actions, Bitrise, etc.)**
+- Git, GitHub, Bitbucket  
+- Android Studio, VS Code  
+- Firebase Console, Supabase, Postman, Trello  
+- GitHub Copilot, ChatGPT, Markdown, Figma, Canva  
+- CI/CD (GitHub Actions, Bitrise, Codemagic)
+
+---
+
+## ✅ What You Get
+
+- ✅ **Modern & Professional UI/UX Design**  
+- ✅ **Scalable & Maintainable Code Architecture**  
+- ✅ **High-Performance & Secure Applications**  
+- ✅ **Ongoing Support & Post-Launch Maintenance**
+
+---
+
+## 📊 GitHub Stats
+
+![Atik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtikFaysal&show_icons=true&line_height=27)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtikFaysal)
 
 ---
 
