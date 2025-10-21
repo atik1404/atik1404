@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Atik Faysal — Mobile App Developer
 
-[![Repos Badge](https://badges.pufler.dev/repos/AtikFaysal)](https://github.com/atik1404)
-[![Gists Badge](https://badges.pufler.dev/gists/AtikFaysal)](https://gist.github.com/atik1404)
-[![Page Views](https://pageview.vercel.app/?github_user=AtikFaysal)](https://github.com/atik1404)
+[![Repos Badge](https://badges.pufler.dev/repos/atik1404)](https://github.com/atik1404)
+[![Gists Badge](https://badges.pufler.dev/gists/atik1404)](https://gist.github.com/atik1404)
+[![Page Views](https://pageview.vercel.app/?github_user=atik1404)](https://github.com/atik1404)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atik1404&theme=github-compact)
 
