@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Atik Faysal — Mobile App Developer
 
-[![Repos Badge](https://badges.pufler.dev/repos/AtikFaysal)](https://github.com/AtikFaysal)
-[![Gists Badge](https://badges.pufler.dev/gists/AtikFaysal)](https://gist.github.com/AtikFaysal)
-[![Page Views](https://pageview.vercel.app/?github_user=AtikFaysal)](https://github.com/AtikFaysal)
+[![Repos Badge](https://badges.pufler.dev/repos/AtikFaysal)](https://github.com/atik1404)
+[![Gists Badge](https://badges.pufler.dev/gists/AtikFaysal)](https://gist.github.com/atik1404)
+[![Page Views](https://pageview.vercel.app/?github_user=AtikFaysal)](https://github.com/atik1404)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atik1404&theme=github-compact)
 
@@ -68,8 +68,8 @@
 
 ## 📊 GitHub Stats
 
-![Atik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtikFaysal&show_icons=true&line_height=27)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtikFaysal)
+![Atik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atik1404&show_icons=true&line_height=27)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atik1404)
 
 ---
 
